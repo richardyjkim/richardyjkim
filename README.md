@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Richard%20Kim&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Richard's%20Repo%20World%20%20%20!!&descAlignY=51&descAlign=62)
-
-<h2 align="center"> 👋 Hello There👋 </h2>
+<h2 align="center"> 👋 Hello There👋 </h2> 
+            
 <p align="center">
 My name is Richard YJ Kim, a Full-Stack web developer.  🌱 <br>
 Innovative problem-solver, Energetic adopter who enjoys adopting new skills. Strengths in creativity, teamwork, and building projects from ideation to execution and enjoys and proud to collaborate with others. ✨
@@ -29,5 +29,10 @@ Innovative problem-solver, Energetic adopter who enjoys adopting new skills. Str
 <p align="center">
   <a href="https://www.linkedin.com/in/richard-kim-670262204/"><img src="https://img.shields.io/badge/Linkedin%20-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://velog.io/@new_wisdom"/></a>&nbsp
   <a href="mailto:richardyjkim@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlgp2500@gmail.com"/></a>
-  
 </p>
+
+
+### Stats Today
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D91C8&title_bg=%233B5E74&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/richardyjkim)   
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=richardyjkim" height="165">
