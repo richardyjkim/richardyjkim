@@ -6,7 +6,7 @@ My name is Richard YJ Kim, a Full-Stack web developer.  🌱 <br>
 Innovative problem-solver, Energetic adopter who enjoys adopting new skills. Strengths in creativity, teamwork, and building projects from ideation to execution and enjoys and proud to collaborate with others. ✨
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D91C8&title_bg=%233B5E74&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/richardyjkim)   
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D91C8&title_bg=%233B5E74&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/richardyjkim)    -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=richardyjkim" height="165">
 <br>
